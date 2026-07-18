@@ -193,6 +193,7 @@ const en = {
   contactLead: "I am interested in SaaS and PropTech, voice and AI products, and tools for social interaction and planning. These products require the team to understand the customer’s workflow and turn it into a working system.",
   resumeRu: "Résumé RU",
   resumeEn: "Résumé EN",
+  aiText: "AI-readable text",
   footerNote: "Company scale is separated from personal action; uncertain facts are not presented as achievements."
 };
 

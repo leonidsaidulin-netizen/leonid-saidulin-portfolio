@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://leonidsaidulin-netizen.github.io/leonid-saidulin-portfolio/sitemap.xml

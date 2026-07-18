@@ -1,0 +1,21 @@
+# Leonid Saidulin — Product Lead
+
+> Product Lead working across B2B SaaS, PropTech, Voice AI, utility billing, customer research, and AI-enabled product operations.
+
+## Primary content
+
+- [Full AI-readable portfolio](https://leonidsaidulin-netizen.github.io/leonid-saidulin-portfolio/portfolio.md): product process, My Dom Online cases, metrics, research method, leadership, and AI automation.
+- [Visual bilingual portfolio](https://leonidsaidulin-netizen.github.io/leonid-saidulin-portfolio/): Russian and English interactive website.
+- [English resume](https://leonidsaidulin-netizen.github.io/leonid-saidulin-portfolio/assets/leonid_saidulin_product_resume_en.docx)
+- [Russian resume](https://leonidsaidulin-netizen.github.io/leonid-saidulin-portfolio/assets/leonid_saidulin_product_resume_ru.docx)
+
+## External projects
+
+- [My Dom Online](https://mdo.mobi/)
+- [Spasibo Sosedu on Product Radar](https://productradar.ru/product/spasibo-sosedu/)
+- [Spasibo Sosedu Telegram](https://t.me/spasibo_sosedu)
+
+## Contact
+
+- Email: lsajdul@mail.ru
+- Telegram: https://t.me/leonidsaidulin

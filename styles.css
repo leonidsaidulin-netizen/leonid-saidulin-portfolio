@@ -580,6 +580,7 @@ h1 {
 .interest-tags span { color: rgba(255,255,255,.8); border-color: rgba(255,255,255,.28); background: rgba(255,255,255,.06); }
 
 footer { display: flex; justify-content: space-between; gap: 20px; border-top: 1px solid var(--line); padding: 24px 0 40px; color: #73766f; font-size: .65rem; }
+footer a { color: var(--pine-dark); font-weight: 800; text-underline-offset: 3px; }
 
 .reveal { opacity: 0; transform: translateY(24px); transition: opacity 620ms ease, transform 620ms cubic-bezier(.2,.65,.25,1); }
 .reveal.visible { opacity: 1; transform: translateY(0); }
