@@ -40,13 +40,6 @@
             <p class="eyebrow" data-i18n="heroEyebrow">Product Lead · B2B SaaS · от исследования до выручки</p>
             <h1 data-i18n="heroTitle">Нахожу бизнес-задачу, за которую клиент готов платить, и довожу продукт до рынка.</h1>
             <p class="hero-lead" data-i18n="heroLead">Перед запуском нового продукта провожу интервью и разбираю рабочий процесс клиента. AI помогает систематизировать материал, а я выбираю сегмент, формулирую конкурентное преимущество, обсуждаю решение с командой и руководством, собираю MVP и запускаю пилоты. Масштабирую гипотезу после подтверждения спроса.</p>
-            <ol class="product-process" aria-label="Как я запускаю продукты">
-              <li><span>01</span><b data-i18n="process1">Интервью и процесс клиента</b></li>
-              <li><span>02</span><b data-i18n="process2">Сегмент и УТП</b></li>
-              <li><span>03</span><b data-i18n="process3">Решение с командой</b></li>
-              <li><span>04</span><b data-i18n="process4">MVP и пилот</b></li>
-              <li><span>05</span><b data-i18n="process5">Продажа и масштабирование</b></li>
-            </ol>
             <div class="identity-line" aria-label="Personal details">
               <span data-i18n="age">24 года</span><span data-i18n="city">Екатеринбург</span><span>English B2</span>
             </div>
@@ -60,27 +53,36 @@
           <aside class="hero-aside reveal" aria-label="Леонид Сайдулин: фотография и личные принципы">
             <figure class="portrait-card">
               <img src="assets/leonid-saidulin-portrait-v2.webp" width="814" height="1085" alt="Leonid Saidulin cycling in the Ural mountains" loading="eager" fetchpriority="high" decoding="async">
-              <figcaption>
-                <span data-i18n="portraitLabel">Вне работы</span>
-                <strong data-i18n="portraitCaption">Велотуризм и уральские горы</strong>
-              </figcaption>
             </figure>
           </aside>
         </div>
 
+        <section class="process-panel reveal" aria-labelledby="process-title">
+          <div class="process-panel__head">
+            <p class="panel-label" data-i18n="processLabel">01 / Мой продуктовый процесс</p>
+            <h2 id="process-title" data-i18n="processTitle">От сигнала рынка до масштабирования</h2>
+          </div>
+          <ol class="product-process" aria-label="Мой продуктовый процесс">
+            <li class="process-step"><span>01</span><h3 data-i18n="process1Title">Ежедневно собираю сигналы</h3><p data-i18n="process1Text">AI-автоматизации отслеживают конкурентов, изменения законодательства и запросы рынка.</p></li>
+            <li class="process-step"><span>02</span><h3 data-i18n="process2Title">Проверяю гипотезу на интервью</h3><p data-i18n="process2Text">Изучаю бизнес-процесс клиента, затем выбираю сегмент и формулирую УТП.</p></li>
+            <li class="process-step"><span>03</span><h3 data-i18n="process3Title">Обсуждаю гипотезу с командой</h3><p data-i18n="process3Text">Сверяю ценность, ограничения, экономику и готовность команды к запуску.</p></li>
+            <li class="process-step"><span>04</span><h3 data-i18n="process4Title">Создаю MVP и запускаю пилоты</h3><p data-i18n="process4Text">Проверяю решение на реальных клиентах и заранее фиксирую критерии успеха.</p></li>
+            <li class="process-step"><span>05</span><h3 data-i18n="process5Title">Запускаю продажи и масштабирую</h3><p data-i18n="process5Text">Передаю подтверждённое предложение в продажи и развиваю продукт по данным внедрения.</p></li>
+          </ol>
+        </section>
+
         <article class="about-strip reveal">
           <div>
             <p class="panel-label" data-i18n="aboutLabel">Кто я вне работы</p>
-            <h2 data-i18n="aboutTitle">Велотуризм, Урал и постоянное обучение</h2>
+            <h2 data-i18n="aboutTitle">Велотуризм, поездки по Уралу и AI-технологии</h2>
           </div>
-          <p data-i18n="aboutText">На выходных перезагружаюсь через спорт и путешествия по Уралу. Слежу за кибербезопасностью, AI-инновациями и новыми AI-продуктами. Параллельно продолжаю изучать ЖКХ, чтобы продуктовые решения опирались на реальную работу отрасли.</p>
-          <div class="about-tags"><span data-i18n="aboutBike">Велотуризм</span><span data-i18n="aboutCyber">Кибербезопасность</span><span data-i18n="aboutAi">AI-инновации</span><span data-i18n="aboutIndustry">Экспертиза в ЖКХ</span></div>
+          <p data-i18n="aboutText">В свободное время езжу на велосипеде, путешествую по Уралу и слежу за новыми AI-технологиями и проектами. Спорт и поездки помогают переключиться после рабочей недели.</p>
         </article>
 
         <article class="current-project reveal">
           <div class="current-project__head">
             <div>
-              <p class="panel-label" data-i18n="currentLabel">Текущий проект</p>
+              <p class="panel-label" data-i18n="currentLabel">02 / Текущий проект</p>
               <h2><span data-i18n="mdoName">«Мой Дом Онлайн»</span><small data-i18n="mdoDescriptor">Автоматизация работы сотрудников ЖКХ · PropTech SaaS для УК и РСО</small></h2>
               <div class="project-links">
                 <a href="https://mdo.mobi/" target="_blank" rel="noopener noreferrer">mdo.mobi ↗</a>
@@ -136,10 +138,10 @@
         </div>
       </section>
 
-      <section class="section mdo-section" id="mdo">
+      <section class="section mdo-section" id="mdo" data-stage="03">
         <div class="chapter-title reveal">
           <span>2025—2026</span>
-          <div><p class="eyebrow" data-i18n="mdoChapterEyebrow">Руководитель продукта · «Мой Дом Онлайн»</p><h2 data-i18n="mdoChapterTitle">Продуктовые кейсы в «Мой Дом Онлайн»</h2></div>
+          <div><p class="eyebrow" data-i18n="mdoChapterEyebrow">03 / Руководитель продукта · «Мой Дом Онлайн»</p><h2 data-i18n="mdoChapterTitle">Продуктовые кейсы в «Мой Дом Онлайн»</h2></div>
         </div>
 
         <div class="mdo-cases">
@@ -224,15 +226,14 @@
         </div>
       </section>
 
-      <section class="section research-section" id="research">
-        <div class="section-heading reveal">
-          <p class="eyebrow" data-i18n="researchEyebrow">Как я провожу исследования</p>
-          <h2 data-i18n="researchTitle">Интервью должно менять решение команды, а не пополнять архив</h2>
-          <p data-i18n="researchLead">До разговора формулирую скрытые гипотезы и собираю контрастные группы респондентов. После интервью сверяю слова с поведением, CRM, поддержкой и SQL. AI ускоряет расшифровку и группировку, но вывод я принимаю после проверки исходных фрагментов.</p>
+      <section class="section research-section" id="research" data-stage="04">
+        <div class="research-intro reveal">
+          <p class="eyebrow" data-i18n="researchEyebrow">04 / Как я провожу исследования</p>
+          <p class="research-thesis" data-i18n="researchLead">До разговора формулирую скрытые гипотезы и собираю контрастные группы респондентов. После интервью сверяю слова с поведением, CRM, поддержкой и SQL. AI ускоряет расшифровку и группировку, но вывод я принимаю после проверки исходных фрагментов.</p>
         </div>
 
         <div class="research-method reveal" id="research-method">
-          <div><p class="eyebrow" data-i18n="methodLabel">Моя техника интервью</p><h3 data-i18n="methodTitle">Восстанавливаю реальный процесс, а не собираю мнения о функциях</h3></div>
+          <div><p class="eyebrow" data-i18n="methodLabel">Моя техника интервью</p><h3 data-i18n="methodTitle">Через глубинные интервью изучаю бизнес-процесс клиента и формирую гипотезы</h3></div>
           <ol>
             <li><span>01</span><p data-i18n="method1">Собираю противоположные группы: лояльные, ушедшие, не купившие, клиенты конкурентов и отраслевые специалисты.</p></li>
             <li><span>02</span><p data-i18n="method2">Заранее формулирую 5–6 скрытых гипотез, но не подсказываю их респонденту вопросами.</p></li>
@@ -243,9 +244,9 @@
         </div>
       </section>
 
-      <section class="section leadership-section" id="leadership">
+      <section class="section leadership-section" id="leadership" data-stage="05">
         <div class="section-heading reveal">
-          <p class="eyebrow" data-i18n="leadershipEyebrow">Как я работаю с командой</p>
+          <p class="eyebrow" data-i18n="leadershipEyebrow">05 / Как я работаю с командой</p>
           <h2 data-i18n="leadershipTitle">Связываю продажи, поддержку и разработку вокруг результата клиента</h2>
           <p data-i18n="leadershipLead">В основном рабочем контуре находятся отдел продаж, техническая поддержка и интеграции, разработка и внешний подрядчик. Финансы и юристы подключаются к решениям по экономике и договорам. На встречах фиксируем решение, ответственного и срок; метрики показывают, где команда теряет выручку, качество сервиса или активность клиента.</p>
         </div>
@@ -266,9 +267,9 @@
 
       </section>
 
-      <section class="section automation-section" id="automation">
+      <section class="section automation-section" id="automation" data-stage="06">
         <div class="section-heading reveal">
-          <p class="eyebrow" data-i18n="automationEyebrow">Как AI усиливает мою продуктовую работу</p>
+          <p class="eyebrow" data-i18n="automationEyebrow">06 / Как AI усиливает мою продуктовую работу</p>
           <h2 data-i18n="automationHeading">Автоматизировал поиск сигналов: от интервью до продаж и мониторинга рынка</h2>
           <p data-i18n="automationLead">AI берёт расшифровку, поиск и первичную классификацию. Я проверяю исходный звонок, сделку или материал и решаю, какой сигнал попадёт в продуктовую стратегию. Рабочие сценарии передаю отделу продаж и другим функциям.</p>
         </div>
@@ -290,8 +291,8 @@
         </div>
       </section>
 
-      <section class="section contact-section reveal" id="contact">
-        <p class="eyebrow" data-i18n="contactEyebrow">Следующий шаг</p>
+      <section class="section contact-section reveal" id="contact" data-stage="07">
+        <p class="eyebrow" data-i18n="contactEyebrow">07 / Следующий шаг</p>
         <h2 data-i18n="contactTitle">Ищу международный проект, где смогу применить этот опыт и вырасти дальше.</h2>
         <p data-i18n="contactLead">Мне интересны SaaS и PropTech, голосовые и AI-продукты, сервисы для социального взаимодействия и планирования. В таких продуктах команда изучает процесс клиента и собирает из него работающую систему.</p>
         <div class="interest-tags"><span>SaaS</span><span>PropTech</span><span>Voice AI</span><span>Social products</span><span>Planning tools</span></div>
