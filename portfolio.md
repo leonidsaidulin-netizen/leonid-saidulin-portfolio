@@ -47,6 +47,14 @@ Property managers were expanding paid resident services to improve service quali
 
 Result: three organizations joined the pilot, and I personally closed one upsell with an existing customer. The two-month pilot validated the feature inside the service plan but did not validate standalone monetization.
 
+Case economics:
+
+- The confirmed customer moved from RUB 17,000 to RUB 45,000 MRR after upgrading to the bundled Operations plan.
+- The deal added RUB 28,000 MRR and increased the monthly contract value 2.65 times.
+- The team used the marketplace as one reason to sell the Operations plan at 2.5–3 times the base contract value.
+
+The RUB 17,000 → RUB 45,000 result refers to one confirmed upsell. The 2.5–3× range describes the sales model, not results across several marketplace customers.
+
 ### Case 3: utility billing from research to first sales
 
 Sales conversations showed that My Dom Online covered only part of the resident workflow without charges and bills. I validated demand and selected in-house development.
@@ -68,6 +76,16 @@ Operating funnel snapshot dated 16 July 2026:
 - 19 technical calls.
 - Two confirmed sales totaling RUB 18,000 MRR.
 
+Case economics:
+
+- Dispatcher CRM: RUB 5.5 per customer account per month.
+- Billing software: an additional RUB 15 per account per month.
+- Managed billing service: an additional RUB 40 per account per month.
+- At 10,000 connected accounts, billing software adds RUB 150,000 MRR or RUB 1.8 million ARR.
+- At 10,000 connected accounts, managed billing adds RUB 400,000 MRR or RUB 4.8 million ARR.
+
+These scenarios show incremental revenue. They exclude discounts, delivery cost, and rollout pace.
+
 ### Case 4: MAX integration
 
 In late 2025, MAX community chats became another service channel that property-management employees handled outside the dispatcher. I proposed an integration that sends MAX messages into the My Dom Online dispatcher so staff can register requests, assign workers, and control deadlines in one workspace.
@@ -76,10 +94,12 @@ Current status and scenario:
 
 - Two customers connected.
 - Ten companies in integration.
+- RUB 24,000 annual subscription per connected customer.
+- 90% of customers express interest in conversations; about 10% of the base is ready to implement or is already implementing.
 - If 50% of the current customer base connects: 78 companies multiplied by RUB 24,000 per year equals RUB 1.872 million potential ARR.
-- Potential resident-app audience: up to 200,000 users versus about 30,000 currently.
+- Potential resident-app audience: up to 200,000 users versus about 30,000 currently, a 6.7× scenario increase.
 
-The ARR and audience figures are scenario estimates, not realized results.
+The ARR and audience figures are scenario estimates, not realized results. The audience can strengthen the product's strategic value. This portfolio does not apply an external acquisition multiple because no public source discloses the purchase price of comparable PropTech transactions.
 
 ### Case 5: 2026 product strategy research
 
