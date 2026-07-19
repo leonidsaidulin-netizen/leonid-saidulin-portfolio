@@ -49,11 +49,11 @@ Result: three organizations joined the pilot, and I personally closed one upsell
 
 Case economics:
 
-- The confirmed customer moved from RUB 17,000 to RUB 45,000 MRR after upgrading to the bundled Operations plan.
-- The deal added RUB 28,000 MRR and increased the monthly contract value 2.65 times.
-- The team used the marketplace as one reason to sell the Operations plan at 2.5–3 times the base contract value.
+- In one rounded example, a customer moved from about RUB 18,000 to RUB 45,000 MRR after upgrading to the bundled Operations plan.
+- The move added about RUB 27,000 MRR and increased the monthly contract value about 2.5 times.
+- The marketplace was the reason to upgrade and activate the plan’s full feature set; it was not sold as a standalone product.
 
-The RUB 17,000 → RUB 45,000 result refers to one confirmed upsell. The 2.5–3× range describes the sales model, not results across several marketplace customers.
+The figures are approximate and describe one confirmed upsell, not results across several marketplace customers.
 
 ### Case 3: utility billing from research to first sales
 
@@ -78,13 +78,12 @@ Operating funnel snapshot dated 16 July 2026:
 
 Case economics:
 
-- Dispatcher CRM: RUB 5.5 per customer account per month.
-- Billing software: an additional RUB 15 per account per month.
-- Managed billing service: an additional RUB 40 per account per month.
-- At 10,000 connected accounts, billing software adds RUB 150,000 MRR or RUB 1.8 million ARR.
-- At 10,000 connected accounts, managed billing adds RUB 400,000 MRR or RUB 4.8 million ARR.
+- The core dispatcher product costs RUB 5.5 per customer account per month.
+- The customer selects one of two additional products: billing software at RUB 15 per account per month or managed billing at RUB 40 per account per month.
+- At 10,000 accounts, the core product produces RUB 55,000 MRR. With billing software, total MRR becomes RUB 205,000 — 3.7 times the core product.
+- At 10,000 accounts, the core product produces RUB 55,000 MRR. With managed billing, total MRR becomes RUB 455,000 — 8.3 times the core product.
 
-These scenarios show incremental revenue. They exclude discounts, delivery cost, and rollout pace.
+The two billing options are mutually exclusive. The scenarios exclude discounts, delivery cost, and rollout pace.
 
 ### Case 4: MAX integration
 
@@ -97,13 +96,13 @@ Current status and scenario:
 - RUB 24,000 annual subscription per connected customer.
 - 90% of customers express interest in conversations; about 10% of the base is ready to implement or is already implementing.
 - If 50% of the current customer base connects: 78 companies multiplied by RUB 24,000 per year equals RUB 1.872 million potential ARR.
-- Potential resident-app audience: up to 200,000 users versus about 30,000 currently, a 6.7× scenario increase.
+- Potential resident-app audience: up to 200,000 users versus about 30,000 currently, or roughly seven times more users in one year.
 
 The ARR and audience figures are scenario estimates, not realized results. The audience can strengthen the product's strategic value. This portfolio does not apply an external acquisition multiple because no public source discloses the purchase price of comparable PropTech transactions.
 
 ### Case 5: 2026 product strategy research
 
-Over two months, I ran eight deep interviews with active and churned customers, non-buyers, prospects, service-company executives, and competitor employees. I checked the findings against CRM, support, and product usage. AI grouped the material; I reviewed the source evidence and discussed the findings with the team.
+Over six weeks, I ran 22 deep interviews with active and churned customers, non-buyers, prospects, service-company executives, and competitor employees. I checked the findings against CRM, support, and product usage. I used AI to group the material, reviewed the source evidence, and discussed the findings with the team.
 
 Two directions were prioritized and moved into development:
 
