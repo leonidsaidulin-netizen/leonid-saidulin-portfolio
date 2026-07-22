@@ -109,6 +109,18 @@ Two directions were prioritized and moved into development:
 1. GIS ЖКХ integration to remove duplicate work between the government system and My Dom Online and protect the product's long-term value.
 2. A contextual AI dispatcher that understands each customer's workflow, handles routine requests, and transfers complex or emergency cases to an employee.
 
+### Strategy artifact: MDO strategy for 2026–2028
+
+I prepared an updated company strategy that connects the business audit, customer research, financial model, product priorities, and execution plan.
+
+- Reconciled plan versus actual revenue, sales, upsells, churn, P&L, and billing-center investment.
+- Combined 22 interviews with CRM, support, product-usage, and sales-refusal data.
+- Sequenced execution into four stages: stabilize SLA and retention; complete billing, MAX, and GIS ЖКХ pilots; develop the Voice AI differentiator; scale only directions with validated quality, demand, and economics.
+- Replaced the earlier billing-center revenue promise with measurable pilot-quality criteria after MVP delivery exposed the real migration and operating cycle.
+- Defined owners, cadence, and management metrics for sales, support, engineering, customer risk, MRR, ARPU, CAC, payback, and product availability.
+
+Public strategy presentation in Russian: https://leonidsaidulin-netizen.github.io/mdo-strategy-2026/
+
 ## Research method
 
 I use deep interviews to understand the customer's business process and form hypotheses.

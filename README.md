@@ -12,6 +12,10 @@ Bilingual portfolio focused on B2B SaaS, PropTech, Voice AI, product research, p
 
 [AI content index](https://leonidsaidulin-netizen.github.io/leonid-saidulin-portfolio/llms.txt)
 
+## Strategy artifact
+
+[MDO strategy 2026–2028](https://leonidsaidulin-netizen.github.io/mdo-strategy-2026/) — a public Russian-language presentation that connects the business audit, customer research, product priorities, P&L, KPI system, and execution plan.
+
 ## Focus
 
 - Product Lead with end-to-end ownership from research to revenue.
