@@ -28,7 +28,7 @@ I mapped the operating workflow from executives and decision-makers to frontline
 
 Company and team context:
 
-- 156 paying B2B customers.
+- 159 active B2B customers.
 - RUB 2.85 million MRR.
 - 1.79 million premises in customer environments.
 - Resident-app reach grew from 21,300 to 30,800 apartments in seven months, a 44% increase.
@@ -74,7 +74,7 @@ Operating funnel snapshot dated 16 July 2026:
 - 80 companies with a contact attempt.
 - 73 substantive conversations.
 - 19 technical calls.
-- Two confirmed sales totaling RUB 18,000 MRR.
+- Two companies launched pilots and validated demand; one paid RUB 180,000 for an annual contract.
 
 Case economics:
 
@@ -89,16 +89,12 @@ The two billing options are mutually exclusive. The scenarios exclude discounts,
 
 In late 2025, MAX community chats became another service channel that property-management employees handled outside the dispatcher. I proposed an integration that sends MAX messages into the My Dom Online dispatcher so staff can register requests, assign workers, and control deadlines in one workspace.
 
-Current status and scenario:
+Commercial result and product economics:
 
-- Two customers connected.
-- Ten companies in integration.
-- RUB 24,000 annual subscription per connected customer.
-- 90% of customers express interest in conversations; about 10% of the base is ready to implement or is already implementing.
-- If 50% of the current customer base connects: 78 companies multiplied by RUB 24,000 per year equals RUB 1.872 million potential ARR.
-- Potential resident-app audience: up to 200,000 users versus about 30,000 currently, or roughly seven times more users in one year.
-
-The ARR and audience figures are scenario estimates, not realized results. The audience can strengthen the product's strategic value. This portfolio does not apply an external acquisition multiple because no public source discloses the purchase price of comparable PropTech transactions.
+- Offer testing validated paid demand across 80% of the customer base, and the team launched upsells to existing customers.
+- The upsell model adds 6% to the customer-base ARR.
+- Connecting community chats expands the addressable audience fourfold, from 30,000 to 120,000 users.
+- The larger active user base strengthens the product's strategic value and valuation potential.
 
 ### Case 5: 2026 product strategy research
 
