@@ -23,8 +23,8 @@
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700;800&display=swap" rel="stylesheet" />
-    <link rel="stylesheet" href="styles.css?v=20260722-2" />
-    <script src="script.js?v=20260722-2" defer></script>
+    <link rel="stylesheet" href="styles.css?v=20260722-3" />
+    <script src="script.js?v=20260722-3" defer></script>
     <script type="application/ld+json">
       {
         "@context": "https://schema.org",
@@ -60,7 +60,6 @@
       <a class="brand" href="#top" aria-label="Leonid Saidulin"><span>LS</span><strong>Leonid Saidulin</strong></a>
       <nav aria-label="Primary navigation">
         <a href="#experience" data-i18n="navExperience">Опыт</a>
-        <a href="#research" data-i18n="navResearch">Исследования</a>
         <a href="#leadership" data-i18n="navLeadership">Управление</a>
         <a href="#automation" data-i18n="navAutomation">AI</a>
       </nav>
@@ -84,7 +83,7 @@
             </div>
             <div class="hero-actions">
               <a class="button primary" href="#mdo" data-i18n="seeExperience">Смотреть продуктовые кейсы</a>
-              <a class="button secondary" href="#research-method" data-i18n="seeResearch">Как провожу интервью</a>
+              <a class="button secondary" href="#strategy-review" data-i18n="seeResearch">Стратегия продукта</a>
               <a class="hero-resume resume-download" href="assets/leonid_saidulin_product_resume_ru.docx" data-i18n="downloadResume">Скачать резюме</a>
             </div>
           </div>
@@ -295,50 +294,29 @@
           </article>
         </div>
 
-        <article class="strategy-showcase reveal" aria-labelledby="strategy-showcase-title">
-          <a class="strategy-preview" href="https://leonidsaidulin-netizen.github.io/mdo-strategy-2026/" target="_blank" rel="noopener noreferrer" aria-label="Открыть презентацию стратегии МДО 2026–2028">
+        <article class="strategy-showcase reveal" id="strategy-review" aria-labelledby="strategy-showcase-title">
+          <div class="strategy-preview">
             <img src="assets/mdo-strategy-2026-preview.jpg" width="1200" height="676" alt="Первый экран презентации стратегии МДО 2026–2028" loading="lazy" decoding="async">
-            <span data-i18n="strategyPreviewLabel">Открыть презентацию ↗</span>
-          </a>
+          </div>
           <div class="strategy-showcase__body">
-            <p class="case-type" data-i18n="strategyType">Стратегический артефакт · 2026–2028</p>
-            <h3 id="strategy-showcase-title" data-i18n="strategyTitle">Подготовил стратегию МДО: от бизнес-аудита до плана исполнения</h3>
-            <p data-i18n="strategyText">Сверил план и факт по выручке, продажам, оттоку и P&amp;L; объединил 22 интервью с данными CRM, поддержки и продукта; разложил развитие на четыре этапа: SLA и удержание, завершение пилотов РЦ, MAX и ГИС ЖКХ, развитие Voice AI и масштабирование только подтверждённых направлений.</p>
+            <p class="case-type" data-i18n="strategyType">Защита стратегии перед СД</p>
+            <h3 id="strategy-showcase-title" data-i18n="strategyTitle">Ежегодно защищаю стратегию развития продукта перед собственниками</h3>
             <div class="strategy-metrics" aria-label="Масштаб стратегической работы">
-              <span class="strategy-metric"><strong>P&amp;L</strong><small data-i18n="strategyClients">аудит экономики и денежных потоков</small></span>
-              <span class="strategy-metric"><strong>22</strong><small data-i18n="strategyInterviews">интервью в исследовании</small></span>
-              <span class="strategy-metric"><strong>4</strong><small data-i18n="strategyStages">этапа исполнения</small></span>
-              <span class="strategy-metric"><strong>2026–2028</strong><small data-i18n="strategyHorizon">горизонт стратегии</small></span>
+              <span class="strategy-metric"><strong>2025–2026</strong><small data-i18n="strategyClients">Сравниваю результаты</small></span>
+              <span class="strategy-metric"><strong>P&amp;L</strong><small data-i18n="strategyInterviews">Показываю финансовые показатели</small></span>
+              <span class="strategy-metric"><strong data-i18n="strategyProductValue">Продукт</strong><small data-i18n="strategyStages">Показываю этапы развития и текущее преимущество бизнеса</small></span>
+              <span class="strategy-metric"><strong>2026–2028</strong><small data-i18n="strategyHorizon">Ставлю планы и KPI</small></span>
             </div>
             <div class="strategy-actions">
-              <a class="button primary" href="https://leonidsaidulin-netizen.github.io/mdo-strategy-2026/" target="_blank" rel="noopener noreferrer" data-i18n="strategyCta">Смотреть стратегию МДО</a>
-              <small data-i18n="strategyNote">Публичная презентация на русском языке</small>
+              <a class="button primary" href="https://leonidsaidulin-netizen.github.io/mdo-strategy-2026/" target="_blank" rel="noopener noreferrer" data-i18n="strategyCta">Смотреть стратегию</a>
             </div>
           </div>
         </article>
       </section>
 
-      <section class="section research-section" id="research" data-stage="04">
-        <div class="research-intro reveal">
-          <p class="eyebrow" data-i18n="researchEyebrow">04 / Как я провожу исследования</p>
-          <p class="research-thesis" data-i18n="researchLead">До разговора формулирую скрытые гипотезы и собираю контрастные группы респондентов. После интервью сверяю слова с поведением, CRM, поддержкой и SQL. AI ускоряет расшифровку и группировку, но вывод я принимаю после проверки исходных фрагментов.</p>
-        </div>
-
-        <div class="research-method reveal" id="research-method">
-          <div><p class="eyebrow" data-i18n="methodLabel">Моя техника интервью</p><h3 data-i18n="methodTitle">Через глубинные интервью изучаю бизнес-процесс клиента и формирую гипотезы</h3></div>
-          <ol>
-            <li><span>01</span><p data-i18n="method1">Собираю противоположные группы: лояльные, ушедшие, не купившие, клиенты конкурентов и отраслевые специалисты.</p></li>
-            <li><span>02</span><p data-i18n="method2">Заранее формулирую 5–6 скрытых гипотез, но не подсказываю их респонденту вопросами.</p></li>
-            <li><span>03</span><p data-i18n="method3">Прошу восстановить последний реальный кейс: кто начал процесс, где возникла ручная работа, что стоило денег и кто принял решение.</p></li>
-            <li><span>04</span><p data-i18n="method4">Сверяю слова с поведением, данными CRM, поддержки, SQL и готовностью платить. Противоречивые кейсы не усредняю.</p></li>
-            <li><span>05</span><p data-i18n="method5">AI расшифровывает и группирует материал; сам переслушиваю ключевые фрагменты и переношу в стратегию только повторяющиеся сигналы со ссылкой на источник.</p></li>
-          </ol>
-        </div>
-      </section>
-
-      <section class="section leadership-section" id="leadership" data-stage="05">
+      <section class="section leadership-section" id="leadership" data-stage="04">
         <div class="section-heading reveal">
-          <p class="eyebrow" data-i18n="leadershipEyebrow">05 / Как я работаю с командой</p>
+          <p class="eyebrow" data-i18n="leadershipEyebrow">04 / Как я работаю с командой</p>
           <h2 data-i18n="leadershipTitle">Связываю продажи, поддержку и разработку вокруг результата клиента</h2>
           <p data-i18n="leadershipLead">В основном рабочем контуре находятся отдел продаж, техническая поддержка и интеграции, разработка и внешний подрядчик. Финансы и юристы подключаются к решениям по экономике и договорам. На встречах фиксируем решение, ответственного и срок; метрики показывают, где команда теряет выручку, качество сервиса или активность клиента.</p>
         </div>
@@ -359,9 +337,9 @@
 
       </section>
 
-      <section class="section automation-section" id="automation" data-stage="06">
+      <section class="section automation-section" id="automation" data-stage="05">
         <div class="section-heading reveal">
-          <p class="eyebrow" data-i18n="automationEyebrow">06 / Как AI усиливает мою продуктовую работу</p>
+          <p class="eyebrow" data-i18n="automationEyebrow">05 / Как AI усиливает мою продуктовую работу</p>
           <h2 data-i18n="automationHeading">Автоматизировал поиск сигналов: от интервью до продаж и мониторинга рынка</h2>
           <p data-i18n="automationLead">AI берёт расшифровку, поиск и первичную классификацию. Я проверяю исходный звонок, сделку или материал и решаю, какой сигнал попадёт в продуктовую стратегию. Рабочие сценарии передаю отделу продаж и другим функциям.</p>
         </div>
@@ -383,8 +361,8 @@
         </div>
       </section>
 
-      <section class="section contact-section reveal" id="contact" data-stage="07">
-        <p class="eyebrow" data-i18n="contactEyebrow">07 / Следующий шаг</p>
+      <section class="section contact-section reveal" id="contact" data-stage="06">
+        <p class="eyebrow" data-i18n="contactEyebrow">06 / Следующий шаг</p>
         <h2 data-i18n="contactTitle">Ищу международный проект, где смогу применить этот опыт и вырасти дальше.</h2>
         <p data-i18n="contactLead">Мне интересны SaaS и PropTech, голосовые и AI-продукты, сервисы для социального взаимодействия и планирования. В таких продуктах команда изучает процесс клиента и собирает из него работающую систему.</p>
         <div class="interest-tags"><span>SaaS</span><span>PropTech</span><span>Voice AI</span><span>Social products</span><span>Planning tools</span></div>

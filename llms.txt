@@ -4,7 +4,7 @@
 
 ## Primary content
 
-- [Full AI-readable portfolio](https://leonidsaidulin-netizen.github.io/leonid-saidulin-portfolio/portfolio.md): product process, My Dom Online cases, metrics, research method, leadership, and AI automation.
+- [Full AI-readable portfolio](https://leonidsaidulin-netizen.github.io/leonid-saidulin-portfolio/portfolio.md): product process, My Dom Online cases, metrics, annual strategy review, leadership, and AI automation.
 - [Visual bilingual portfolio](https://leonidsaidulin-netizen.github.io/leonid-saidulin-portfolio/): Russian and English interactive website.
 - [MDO strategy 2026–2028](https://leonidsaidulin-netizen.github.io/mdo-strategy-2026/): public Russian-language strategy presentation covering the business audit, research, product priorities, financial model, KPI system, and execution plan.
 - [English resume](https://leonidsaidulin-netizen.github.io/leonid-saidulin-portfolio/assets/leonid_saidulin_product_resume_en.docx)
